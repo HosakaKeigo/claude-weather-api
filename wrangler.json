@@ -1,0 +1,6 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "claude-weather-api",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-02-11"
+}
